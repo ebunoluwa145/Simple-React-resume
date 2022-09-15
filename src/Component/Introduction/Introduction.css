@@ -1,0 +1,28 @@
+/* hr{
+    width: 1px;
+    background-color: blue;
+} */
+
+.introduction{
+    display: flex;
+    justify-content: space-between;
+    /* width: 100vw; */
+    margin: 20px;
+    /* margin-left: 20px; */
+   
+}
+.introductionrule{
+    height: 1px;
+    background-color: blue;
+}
+.contact{
+    width: 30%;
+    padding: 5px;
+    text-align: right;
+    
+}
+.summary{
+    width: 65%;
+    padding: 5px;
+   
+}

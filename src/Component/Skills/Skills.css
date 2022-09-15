@@ -1,0 +1,25 @@
+.skills{
+    display: flex;
+    justify-content: space-between;
+    /* width: 100vw; */
+    margin: 20px;
+    /* margin-left: 20px; */
+   
+}
+.skillrule{
+    height: 1px;
+    background-color: blue;
+}
+.skill{
+    width: 30%;
+    padding: 5px;
+    text-align: right;
+    
+}.skill li{
+    list-style: none;
+}
+.association{
+    width: 65%;
+    padding: 5px;
+   
+}

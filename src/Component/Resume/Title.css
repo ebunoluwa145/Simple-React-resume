@@ -1,0 +1,30 @@
+.title{
+    margin: 20px;
+}
+h1{
+    margin-bottom: -20px;
+}
+.header{
+    display: flex;
+}
+.rule{
+/* border: 2px solid; */
+align-self: center;
+
+}
+.titlerule{
+    width: 85vw;
+    height: 1px;
+    background-color: blue;
+    
+}
+.subtitle{
+   text-align: center;
+    border: 2px solid;
+    padding: 5px;
+    background-color: blue;
+    color: white;
+}
+h4{
+   justify-self:center;
+}
